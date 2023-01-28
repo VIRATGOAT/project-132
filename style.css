@@ -1,0 +1,57 @@
+
+a { 
+  font-size: 20px !important; 
+  width: 400px; 
+  border-radius: 30px !important; 
+  background-color: white;
+  color: black; 
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+#back{
+  float:right;
+  font-size: 20px !important;
+  margin: 5px;
+  background: black;
+  cursor: pointer;
+  color: white;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#back_btn{
+  float: right;
+  font-size: 20px !important;
+  margin: 5px;
+  background: black;
+  cursor: pointer;
+  color: white;
+}
+
+
+
